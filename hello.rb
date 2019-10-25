@@ -1,3 +1,1 @@
-""
-puts "hello world"
-ruby hello.rb
+puts "Hello, Everyone!"
