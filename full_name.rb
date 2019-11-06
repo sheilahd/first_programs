@@ -10,6 +10,8 @@ user_name = gets.chomp
 n<< user_name
 n.inspect
 puts "Nice to meet you " + n.join(" ") + "!"
+exit
+
 
 
 
