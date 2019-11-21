@@ -11,4 +11,4 @@ word.chars.each do |i|
 end
 return word_charact
 end
-puts hangman("happy",["p"])
+puts hangman("happy",["p", "a"])
